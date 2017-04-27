@@ -1,2 +1,2 @@
 # Website-Blocker
-Blocks a list of websites during working hours (9-5)
+A Python script to blocks a list of websites during working hours (9-5)
